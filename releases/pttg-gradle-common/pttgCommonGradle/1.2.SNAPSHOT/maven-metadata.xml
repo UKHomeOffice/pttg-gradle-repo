@@ -2,13 +2,12 @@
 <metadata>
   <groupId>pttg-gradle-common</groupId>
   <artifactId>pttgCommonGradle</artifactId>
+  <version>1.2.SNAPSHOT</version>
   <versioning>
-    <release>1.2.20160622.073008-1</release>
-    <versions>
-      <version>1.0.RELEASE</version>
-      <version>1.1.RELEASE</version>
-      <version>1.2.20160622.073008-1</version>
-    </versions>
+    <snapshot>
+      <timestamp>20160622.073008</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
     <lastUpdated>20160622073008</lastUpdated>
   </versioning>
 </metadata>
