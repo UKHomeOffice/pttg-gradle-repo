@@ -3,7 +3,7 @@
   <groupId>pttg-gradle-common</groupId>
   <artifactId>pttgCommonGradle</artifactId>
   <versioning>
-    <release>1.2.20160622.074458-4</release>
+    <release>1.2.20160622.075247-5</release>
     <versions>
       <version>1.0.RELEASE</version>
       <version>1.1.RELEASE</version>
@@ -11,7 +11,8 @@
       <version>1.2.20160622.073703-2</version>
       <version>1.2.20160622.074121-3</version>
       <version>1.2.20160622.074458-4</version>
+      <version>1.2.20160622.075247-5</version>
     </versions>
-    <lastUpdated>20160622074458</lastUpdated>
+    <lastUpdated>20160622075247</lastUpdated>
   </versioning>
 </metadata>
