@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>pttg-gradle-common</groupId>
+  <artifactId>pttgCommonGradle</artifactId>
+  <version>1.3.SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160622.080828</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20160622080828</lastUpdated>
+  </versioning>
+</metadata>
