@@ -3,11 +3,12 @@
   <groupId>pttg-gradle-common</groupId>
   <artifactId>pttgSpringBootGradle</artifactId>
   <versioning>
-    <release>1.1.RELEASE</release>
+    <release>1.2.RELEASE</release>
     <versions>
       <version>1.0.RELEASE</version>
       <version>1.1.RELEASE</version>
+      <version>1.2.RELEASE</version>
     </versions>
-    <lastUpdated>20160623090100</lastUpdated>
+    <lastUpdated>20160721125527</lastUpdated>
   </versioning>
 </metadata>
