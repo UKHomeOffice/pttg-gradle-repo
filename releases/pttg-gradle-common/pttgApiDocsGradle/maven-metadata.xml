@@ -3,12 +3,13 @@
   <groupId>pttg-gradle-common</groupId>
   <artifactId>pttgApiDocsGradle</artifactId>
   <versioning>
-    <release>0.9.RELEASE</release>
+    <release>1.2.RELEASE</release>
     <versions>
       <version>1.0.RELEASE</version>
       <version>1.1.RELEASE</version>
       <version>0.9.RELEASE</version>
+      <version>1.2.RELEASE</version>
     </versions>
-    <lastUpdated>20160808102710</lastUpdated>
+    <lastUpdated>20160808111459</lastUpdated>
   </versioning>
 </metadata>
